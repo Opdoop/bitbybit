@@ -1,7 +1,7 @@
 # SUMMARY
 
+* [译者手记](readme.md)
 * [作者序](preface.md)
-* [译者手记](README.md)
 
 ## 1 简介
 
