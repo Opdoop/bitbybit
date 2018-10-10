@@ -3,7 +3,8 @@
 
 这两个主题贯通本书，我现在强调一下，你就会注意到它们一次又一次的出现。第一个主题可以通过一个类比两个伟人来说明：Marcel Duchamp与Michelangelo。Duchamp最为人熟知的是它的readymades，例如喷泉。Duchamp把普通的物品用另一种角度展示为艺术品。Michelangelo与之不同，他并不是换一种角度。当他想创作雕像大卫的时候，他并不是看着一块神似大卫的大理石，而是用三年雕刻出了这个杰作。大卫不是readymade，而是custommade（图1.2）。
 
-![图1.2：Marcel Duchamp的 *Fountain* 与 Michaelangelo的 *David*。*Fountain* 是一个readymade的例子，一个艺术家将已存在的东西创造性的用另一个角度展示为艺术品（旋转了90度的瓷制小便器）。*David* 是一个custommade的例子，它是刻意创作的艺术品。数字时代的社会学研究将同时涉及readymades与custommades。*Fountain* 的照片来自Alfred Stiglitz，1917（来源：The Blind Man, no.2/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Duchamp_Fountaine.jpg)。 *David* 的照片来自Jörg Bittner Unna，2008（来源：\_Galleria dell’Accademia, Florence/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_JBU0001.JPG)。](https://www.bitbybitbook.com/figures/chapter1/bitbybit1-2_readymade-custommade.png)
+![图1.2](https://www.bitbybitbook.com/figures/chapter1/bitbybit1-2_readymade-custommade.png)
+> 图1.2：Marcel Duchamp的 *Fountain* 与 Michaelangelo的 *David*。*Fountain* 是一个readymade的例子，一个艺术家将已存在的东西创造性的用另一个角度展示为艺术品（旋转了90度的瓷制小便器）。*David* 是一个custommade的例子，它是刻意创作的艺术品。数字时代的社会学研究将同时涉及readymades与custommades。*Fountain* 的照片来自Alfred Stiglitz，1917（来源：The Blind Man, no.2/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Duchamp_Fountaine.jpg)。 *David* 的照片来自Jörg Bittner Unna，2008（来源：\_Galleria dell’Accademia, Florence/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_JBU0001.JPG)。
 
 Readymades与custommades大致映射了两种数字时代的社会学研究风格。如你所见，某些例子中巧妙的利用了大数据资源，这些资源最初是由政府或公司创建的。在另一些例子中，研究者由一个具体的问题出发，使用数字时代的工具创建了用于回答这个问题的数据。如果我们姿势正确，这两种风格都会非常给力。因此，数字时代的社会学研究将同时涉及readymades和custommades；它同时需要Duchamps和Michelangelos。
 
