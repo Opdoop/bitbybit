@@ -1,6 +1,5 @@
-# 译者手记
+#### License
 
 在对本作品进行演绎时，请署名并以相同方式共享。
 
-[![&#x77E5;&#x8BC6;&#x5171;&#x4EAB;&#x8BB8;&#x53EF;&#x534F;&#x8BAE;](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
