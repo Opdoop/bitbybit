@@ -1,5 +1,12 @@
 root: ./
 
 structure:
+<<<<<<< HEAD
   readme: SUMMARY.md
   summary: SUMMARY.md
+=======
+  readme: README.md
+  summary: SUMMARY.md
+
+  
+>>>>>>> ab8a5058c847df8e1ab73929637502685a299a9b
