@@ -16,8 +16,8 @@
 
 * [2.1 简介](chap2/2-1-introduction.md)
 * [2.2 大数据](chap2/2-2-big-data.md)
-* [2.3 大数据的十个常见特性](chap2/)
-    * [2.3.1 大](chap2/)
+* [2.3 大数据的十个常见特性](chap2/2-3-ten-common-characteristics-of-big-data.md)
+    * [2.3.1 Big](chap2/2-3-1-big.md)
     * [2.3.2]()
     * [2.3.3]()
     * [2.3.4]()
