@@ -1,5 +1,5 @@
 ## 作者简介
-[Matthew J. Salganik](http://www.princeton.edu/~mjs3/)是普林斯顿大学（Princeton University）的社会学教授。同时他还隶属于信息技术政策中心（[Center for Information Technology Policy](https://en.wikipedia.org/wiki/Center_for_Information_Technology_Policy)），以及统计与机器学习中心（[Center for Statistics and Machine Learning](https://csml.princeton.edu/)。他的研究得到过Microsoft，Facebook和Google的资助，而且已经登陆过[美国国家公共电台](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E5%85%AC%E5%85%B1%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0)，同时还在[纽约客](https://zh.wikipedia.org/wiki/%E7%B4%90%E7%B4%84%E5%AE%A2)，[纽约时报](https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5)与[华尔街日报](https://zh.wikipedia.org/wiki/Wall_Street_Journal)等刊物上发表过。
+[Matthew J. Salganik](http://www.princeton.edu/~mjs3/)是普林斯顿大学（Princeton University）的社会学教授。同时他还隶属于信息技术政策中心（[Center for Information Technology Policy](https://en.wikipedia.org/wiki/Center_for_Information_Technology_Policy)），以及统计与机器学习中心（[Center for Statistics and Machine Learning](https://csml.princeton.edu/)）。他的研究得到过Microsoft，Facebook和Google的资助，而且已经登陆过[美国国家公共电台](https://zh.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E5%85%AC%E5%85%B1%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0)，同时还在[纽约客](https://zh.wikipedia.org/wiki/%E7%B4%90%E7%B4%84%E5%AE%A2)，[纽约时报](https://zh.wikipedia.org/wiki/%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5)与[华尔街日报](https://zh.wikipedia.org/wiki/Wall_Street_Journal)等刊物上发表过。
 
 ## 原著
 Bit By Bit: Social Research in the Digital Age 的原著可以在 https://www.bitbybitbook.com/ 免费在线阅读。正版中文译本将由中信出版集团出版，与本 GitBook 无关。
@@ -24,5 +24,5 @@ Bit By Bit: Social Research in the Digital Age 的原著可以在 https://www.bi
 如有任何问题，可以通过邮件联系笔者：zhaojiahao2019@ia.ac.cn
 
 
-![HIMYM](/photo/HIMYM.jpg)
->HIMYM Episode 19 Season 4 11:03；笔者正不断努力，希望能写出这样的译文。
+![图0.1 HIMYM](/photo/HIMYM.jpg)
+>图0.1 HIMYM Episode 19 Season 4 11:03；笔者正不断努力，希望能写出这样的译文。
