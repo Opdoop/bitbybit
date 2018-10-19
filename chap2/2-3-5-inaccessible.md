@@ -1,5 +1,5 @@
 # Inaccessible
-> 研究者通常获得很难政府和公司所拥有的数据。
+> 研究者通常很难获得政府和公司所拥有的数据。
 
 2014年，美国国家安全局（US National Security Agency）在犹他州（Utah）的乡村建立了一个数据中心。它有一个拗口的名字，[情报体系综合性国家计算机安全计划数据中心](https://zh.wikipedia.org/wiki/%E7%8A%B9%E4%BB%96%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)（Intelligence Community Comprehensive National Cybersecurity Initiative Data Center）。这个数据中心还被称为犹他数据中心。据报道，它拥有惊人的数据量。[Bamford(2012)](https://www.wired.com/2012/03/ff_nsadatacenter/all/1/)称，它能够存储和计算所有的通信信息，包括“完整的私人邮件，通话记录，搜索记录，以及各种轨迹记录——停车收据，旅行路线，购书记录，以及其他的数字‘[pocket litter](https://en.wikipedia.org/wiki/Pocket_litter)’”。除了下面要讨论的大数据敏感性，犹他数据中心是个研究者无法获取的数据富集源的极端例子。更一般的，很多有用的数据源都被政府控制和保密（例如税收记录和教育记录）或企业掌控（搜索引擎的查询记录和通话记录）。因为大数据的不可获性，即使有各种大数据源，对社会学研究并没有什么帮助。
 
