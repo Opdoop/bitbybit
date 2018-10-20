@@ -23,7 +23,7 @@
     * [2.3.4 Incomplete](chap2/2-3-4-incomplete.md)
     * [2.3.5 Inaccessible](chap2/2-3-5-inaccessible.md)
     * [2.3.6 Nonrepresentative](chap2/2-3-6-nonrepresentative.md)
-    * [2.3.7]()
+    * [2.3.7 Drifting](chap2/2-3-7-drifting.md)
     * [2.3.8]()
     * [2.3.9]()
     * [2.3.10]()
