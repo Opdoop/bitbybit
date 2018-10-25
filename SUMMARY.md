@@ -26,7 +26,7 @@
     * [2.3.7 Drifting](chap2/2-3-7-drifting.md)
     * [2.3.8 Algorithmically confounded](chap2/2-3-8-algorithmically-confounded.md)
     * [2.3.9 Dirty](chap2/2-3-9-dirty.md)
-    * [2.3.10]()
+    * [2.3.10 Sensitive](chap2/2-3-10-sensitive.md)
 * [2.4 研究的策略]()
     * [2.4.1]()
     * [2.4.2]()
