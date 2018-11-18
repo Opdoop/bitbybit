@@ -17,6 +17,11 @@
 乍看上去也许并不明显，彩票草案与「随机对照实验」有个关键的相似点：在这两种情况下，参与者都被随机分派了某个任务。为了研究这些随机分派任务的影响，Angrist 利用了 [always-on](2-3-2-always-on.md) 的大数据系统：美国社会保障局。这个系统收集了几乎所有美国人的就业收入信息。政府行政记录中记录了哪些人在彩票草案中被抽中，Angrist 将收入信息与中签记录结合，他发现退伍兵的收入比未服役过的人低 15 %。
 
 如同上面的例子中，某些社会，政策或自然因素强制分派的任务可以被研究者们利用，并且有时这些任务的影响会被大数据系统记录下来。这个研究策略可以总结未下面这个公式：
-$$\random (or as if random) variation + always-on data = natural experiment$$
+
+$$
+\int_{-\infty}^\infty g(x) dx
+$$
+
+$$\ random (or as if random) variation + always-on data = natural experiment$$
 
 举一个在数据时代使用这个策略的例子，Alexandre Mas 和 Enrico Moretti （[2009](https://doi.org/10.1257/aer.99.1.112)）的研究是尝试估测同
