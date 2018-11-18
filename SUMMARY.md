@@ -30,7 +30,7 @@
 * [2.4 研究的策略](chap2/2-4-research-strategies.md)
     * [2.4.1 统计](chap2/2-4-1-counting-things.md)
     * [2.4.2 预报与即时预报](chap2/2-4-2-forecasting-and-nowcasting.md)
-    * [2.4.3]()
+    * [2.4.3 模拟实验](chap2/2-4-3-approximating-experiments.md)
 * [2.5 总结]()
 * [数学原理简介]()
 * [扩展阅读]()
