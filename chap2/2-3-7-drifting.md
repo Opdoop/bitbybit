@@ -1,7 +1,7 @@
 # 2.3.7 Drifting
 > 大数据的三种变动性——使用人群的变动，使用方式的变动以及系统本身的变动，使得很难用它来进行长期趋势的研究。
 
-大数据有个很好的优点，随着时间的推移，它不断的收集着数据。社会学家将这种时间序列数据称作 *纵向数据（longitudinal data）*。当然，纵向数据对研究变化很有帮助。然而，为了可高的观测变化，测量系统本书必须保持稳定。用社会学家 Otis Dudley Duncan 的话说，“if you want to measure change, don't change the measure”（[Fischer 2011](https://doi.org/10.1093/jsh/shs084)）。（“怎么翻译啊TAT”）
+大数据有个很好的优点，随着时间的推移，它不断的收集着数据。社会学家将这种时间序列数据称作 *纵向数据（longitudinal data）*。当然，纵向数据对研究变化很有帮助。然而，为了可靠的观测变化，测量系统本身必须保持稳定。用社会学家 Otis Dudley Duncan 的话说，「if you want to measure change, don't change the measure」（[Fischer 2011](https://doi.org/10.1093/jsh/shs084)）。
 
 不幸的是，很多大数据系统——尤其是商业系统——随时在变化，我把这个过程叫做 *漂移（drift)*。具体的说，系统的变化有三种主要形式：*使用人群的漂移（population drift）*，*使用方式的漂移（behavioral drift）*，*系统本身的漂移（system drift）*。这三种漂移方式意味着，任何从大数据中发现的模式也许是因为真实世界的重要变化，或者是因为某种形式的漂移。
 
