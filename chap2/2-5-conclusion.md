@@ -7,4 +7,4 @@
 
 在结束之前，值得回味一下，大数据对数据于理论的关系产生的重要影响。到现在，本章都使用经验主义来推证理论 (*emprically driven theorizing*)。就是说，通过谨慎的积聚经验性的事实，模式，以及谜题，研究者可以建立新的理论。这种 「data-first」的方法并不是什么新东西，最铿锵有力的亮相来自于 [Barney Glase and Anselm Strauss (1967)](http://www.worldcat.org/title/discovery-of-grounded-theory-strategies-for-qualitative-research/oclc/253912)，他们称作「[扎根理论](https://zh.wikipedia.org/wiki/%E7%B4%AE%E6%A0%B9%E7%90%86%E8%AB%96)」(*[grounded theory](https://en.wikipedia.org/wiki/Grounded_theory)*)。然而，「data-first」的研究路径，并不是「the end of theory」，正如数字时代的一些围绕研究的新闻报道的那样 ([Anderson 2008](http://www.wired.com/2008/06/pb-theory/))。与其认为这是数据环境的变化，我们应当期待到数据和理论之间的关系出现再平衡。在那个收集数据很昂贵的时代，只收集理论上认为有用的数据。但当世界被数据包围的时候，有大量免费的数据，「data-first」的方式又未尝不可 ([Goldberg 2015](https://doi.org/10.1177/2053951715601145))。
 
-正如本章种所说的，研究者通过观察人们的行为可以进行很多研究。在接下来的三章，第三章「问问题」，第四章「实验」，以及第五章「大规模协作」中，我将展示，如果能裁剪我们收集的数据，以及与人们更直接的互动，可以从中发现什么。
+正如本章中所说的，研究者通过观察人们的行为可以进行很多研究。在接下来的三章，第三章「问问题」，第四章「实验」，以及第五章「大规模协作」中，我将展示，如果能裁剪我们收集的数据，以及与人们更直接的互动，可以从中发现什么。
