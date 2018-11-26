@@ -7,6 +7,6 @@
 ## 「潜在结果框架」
 「潜在结果框架」(*potential outcomes framework*) 有三个主要组成元素：*units*「单位」，*treatments*「处理」，*potential outcomes*「潜在结果」。让我们以 [Angrist (1990)](http://www.jstor.org/stable/2006669) 的经典问题为例：服兵役对收入有什么影响？在这个例子中，可以定义 1970 年美国彩票草案中的合格者为「单位」，并且我们可以对每个人建立引索「index」，\$  i \eq 1   ,...,N \$。在这个例子中，「处理」
 
-Here is some inline math: \$ a \ne 0\$
+Here is some inline math: $$ a \ne 0 $$
 
 $$ a \ne 0$$
