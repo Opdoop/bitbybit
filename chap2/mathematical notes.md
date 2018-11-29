@@ -11,7 +11,9 @@
 
 给定「单位」，「处理」和「潜在结果」，「处理」对第 $$i$$ 个人的因果效应 $$\tau_{i}$$ 可以定义为：
 
-$$\ \tau_{i} = Y_{i}(1) - Y_{i}(0) \quad (2.1)$$
+$$
+\tau_{i} = Y_{i}(1) - Y_{i}(0) \quad (2.1)
+$$
 
 也就是说，比较第 $i$ 个人服兵役和不服兵役时的收入。对我来说，公式 2.1 最清晰的定义了因果效应。尽管极其简化，这个框架可以在很多重要的有趣的方面进行推广 ([Imbens and Rubin 2015](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB))。
 
@@ -30,15 +32,23 @@ $$\ \tau_{i} = Y_{i}(1) - Y_{i}(0) \quad (2.1)$$
 然而，但我们用这种方式定义因果效应时，会遇到一些问题。在大多数情况，我们不能同时观测到这两个「潜在结果」。就是说，一个人要么「服兵役」，要么「不服兵役」。因此，我们只能观测到其中一个潜在结果——$Y_{i}(1)$ 或者 $Y_{i}(0)$。不能同时观测这两个「潜在结果」是个很关键的问题，以至于 [Holland (1986)](https://doi.org/10.2307/2289064) 称之为 「因果推测的根本问题」(*Fundamental Problem of Causal Inference*)。
 
 幸运的是，当我们做研究时，并不只观测一个人。相反的，我们有可以观测很多人。这提供了一种绕过「因果推测的根本问题」的方法。与其尝试在个体层面 (*individual-level*) 估计处理效应 (*treatment effect*)，我们可以估计「平均处理效应」(*average treatment effect*)：
-$$ ATE = \bar\tau = \frac{1}{N} \sum_{i=1}^N \tau_{i} \quad (2.2) $$
+
+$$
+ATE = \bar\tau = \frac{1}{N} \sum_{i=1}^N \tau_{i} \quad (2.2)
+$$
 
 使用简单的代数方法 ([Gerber and Green (2012)](https://isps.yale.edu/research/data/d081) 中的 公式2.8)，将 公式2.1 带入 公式2.2，我们可以消除 $\tau_{i}$，得到：
-$$ ATE = \frac{1}{N} \sum_{i=1}^N Y_{i}(1) - \frac{1}{N} \sum_{i=1}^N Y_{i}(0) \quad (2.3) $$
+
+$$
+ATE = \frac{1}{N} \sum_{i=1}^N Y_{i}(1) - \frac{1}{N} \sum_{i=1}^N Y_{i}(0) \quad (2.3)
+$$
 
 公式 2.3 说明，如果我们能估计试验组的平均结果 ($N^{-1} \sum_{i=1}^{N} Y_{i}(1)$) 以及控制组的平均结果 ($N^{-1} \sum_{i=1}^{N} Y_{i}(0)$) ，那么我们就可以估计「平均处理效应」。
 
 现在，我们定义了需要估计的值，接下来即使如何通过数估算这些值。我们的问题是，对于每个人可能的「潜在结果」，只能观测得到其中的一个，$Y_{i}(1)$ 或 $Y_{i}(0)$ （表 2.6）。通过比较所有「服兵役」于「不服兵役」的人的收入，我们可以估测出「平均处理效应」：
-$$ \widehat {ATE} = \underbrace{\frac{1}{N_{t}} \sum_{i:W_{i}=1} Y_{i}(1)}_{average\ earnings,\ treatment} - \underbrace{\frac{1}{N_{c}} \sum_{i:W_{i}=0} Y_{i}(0)}_{average \ earning,\ control} \quad (2.4)$$
+$$
+\widehat {ATE} = \underbrace{\frac{1}{N_{t}} \sum_{i:W_{i}=1} Y_{i}(1)}_{average\ earnings,\ treatment} - \underbrace{\frac{1}{N_{c}} \sum_{i:W_{i}=0} Y_{i}(0)}_{average \ earning,\ control} \quad (2.4)
+$$
 
 其中 $N_{t}$ 是在试验组的人数，也就是「服兵役」的人数。$N_{c}$ 是控制组的人数，也就是「不服兵役」的人数。如果「处理」的分配与「潜在结果」是无关的，这种方法很有效。这个假设有时称作 「可忽略性」 ([*ignorability*](https://en.wikipedia.org/wiki/Ignorability))。不幸的是，在缺乏实验的情况下，「可忽略性」常常无法满足。也就是说，如果「处理」不是随机分配的，「处理」的分配很可能与「潜在结果」有相关性。这意味着公式 2.4 中的估测值也许会有误差。
 
@@ -73,7 +83,9 @@ $$ \widehat {ATE} = \underbrace{\frac{1}{N_{t}} \sum_{i:W_{i}=1} Y_{i}(1)}_{aver
 在讨论如何估计「处理」（比如「服兵役」）产生的效应之前，我们可以定义激励（比如被征召」的两个效应。首先，我们可以定义这种激励对「一级处理」的影响。接着，我们可以定义这种激励对「二级处理」的影响。结果显示，这两种效应可以结合起来，来估计「处理」对特定人群的影响。
 
 首先，对于第 $i$ 个人，激励对「处理」的影响可以定义为：
-$$ ITT_{W,i} = W_i(1) - W_i(0) \quad (2.5)$$
+$$
+ITT_{W,i} = W_i(1) - W_i(0) \quad (2.5)
+$$
 
 然后，可以在人群层面定义这个量：
 $$ ITT_W = \frac{1}{N} \sum_{i=1}^N [W_i(1) - W_i(0)] \quad (2.6)$$
