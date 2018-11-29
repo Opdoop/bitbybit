@@ -11,7 +11,7 @@
 
 给定「单位」，「处理」和「潜在结果」，「处理」对第 $$i$$ 个人的因果效应 $$\tau_{i}$$ 可以定义为：
 
-$$\tau_{i} = Y_{i}(1) - Y_{i}(0) \quad (2.1)$$
+$$\ \tau_{i} = Y_{i}(1) - Y_{i}(0) \quad (2.1)$$
 
 也就是说，比较第 $i$ 个人服兵役和不服兵役时的收入。对我来说，公式 2.1 最清晰的定义了因果效应。尽管极其简化，这个框架可以在很多重要的有趣的方面进行推广 ([Imbens and Rubin 2015](https://www.cambridge.org/core/books/causal-inference-for-statistics-social-and-biomedical-sciences/71126BE90C58F1A431FE9B2DD07938AB))。
 
