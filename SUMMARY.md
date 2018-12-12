@@ -33,5 +33,5 @@
     * [2.4.3 模拟实验](chap2/2-4-3-approximating-experiments.md)
 * [2.5 总结](chap2/2-5-conclusion.md)
 * [数学原理简介](chap2/mathematical notes.md)
-* [扩展阅读]()
+* [扩展阅读](chap2/observing-what-to-read-next.md)
 * [延伸活动]()
