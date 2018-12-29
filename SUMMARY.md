@@ -35,3 +35,4 @@
 * [数学原理简介](chap2/mathematical notes.md)
 * [扩展阅读](chap2/observing-what-to-read-next.md)
 * [延伸活动](chap2/observing-activities.md)
+* [temp](note.md)

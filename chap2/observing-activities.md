@@ -56,4 +56,16 @@
 
   9. 在所有的这些语言之间做比较，有发现有发现遗忘的特别快或特变慢的异常年份吗？浅显的推测一下产生这些异常的原因。
 
-7. [![hardest][dif-hardest], ![cubes][cubes], ![code][code], ![favorite][favorite]] [Penney (2016)](https://doi.org/http://dx.doi.org/10.15779/Z38SS13)
+7. [![hardest][dif-hardest], ![cubes][cubes], ![code][code], ![favorite][favorite]] [Penney (2016)](https://doi.org/http://dx.doi.org/10.15779/Z38SS13) 研究了 2013 年 6 月沸沸扬扬的 [棱镜计划](https://zh.wikipedia.org/wiki/%E7%A8%9C%E9%8F%A1%E8%A8%88%E7%95%AB) 是否导致了维基百科上与隐私问题有关的话题的稳住浏览量的突然下降。如果是这样，大规模监控引起了 [寒蝉效应](https://zh.wikipedia.org/wiki/%E5%AF%92%E8%9F%AC%E6%95%88%E6%87%89_(%E6%B3%95%E5%BE%8B))。[Penney (2016)](https://doi.org/http://dx.doi.org/10.15779/Z38SS13) 使用了叫做「受干预时间序列」( [interrupted time seires design](https://en.wikipedia.org/wiki/Interrupted_time_series) ) ，与 2.4.3 节的方法类似。
+
+根据 [美国国土安全部](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8) 用来跟踪监控社交媒体的列表，Penney 选择出隐私问题相关的关键字。国土安全部的列表里，将搜索的关键字分类为一系列的问题，例如「健康问题」，「[基础设施安全](https://en.wikipedia.org/wiki/Infrastructure_security)」，和「恐怖主义」。在他的研究中， Penny 使用了与「恐怖主义」相关的 48 个关键词 (见附录的表 8 )。接着，他统计了从 2012 年 1 月 到 2014 年 8 月，共 32 个月里，与这 48 个词有关的维基百科文章的点击量。为了增强说服力，他还比较了几组其他主题文章的点击量。
+
+现在，我们来重现并扩展 [Penney (2016)](https://doi.org/http://dx.doi.org/10.15779/Z38SS13) 的工作。这个任务中，你需要的所以原始数据都看在维基百科上获取到。或者你可以从 R 包 「wikipediatrend」 ([Meissner and R Core Team 2016](https://cran.r-project.org/package=wikipediatrend)) 中获取。在你开始之前，请确认使用了对应的数据。(注意，这个任务同样出现在了第 6 章)。通过这个任务，你会练习数据清洗，对大数据中的自然实验进行思考。同时，这也适合作你研究工作的一次预演。
+
+  1. 阅读 [Penney (2016)](https://doi.org/http://dx.doi.org/10.15779/Z38SS13) ，然后复现其中的「figure 2」。这幅图显示了与「恐怖主义」有关的页面，在斯诺登事件前后的点击量。从中你发现了什么？
+
+  2. 接着，重现「figure 4A」，这幅图对比了实验组 (与「恐怖主义」相关的文章) 与对照组 (其他类别的文章，见附录的表 10 与脚注 139)。从中你发现了什么？
+
+  3. 在上一问中，你比较了实验组与一个对照组。Penney 也与其他两个对照组进行了比较，「基础设施安全」相关的文章 (附录中的表 11) 和维基百科上的热门页面 (附录中的表 12)。如果再选择一个对照组，测试一下结论的敏感性，你会选择哪个主题的文章做对照组？为什么？
+
+  4.
