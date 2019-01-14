@@ -13,7 +13,8 @@
 * 需要数学基础 (![math][math])
 * 需要编程 (![code][code])
 * 需要收集数据 (![cubes][cubes])
-* 我的最爱 (![favorite][favorite])
+* 我的最爱 (![favorite][favorite])  
+
 
 1. [![medium][dif-med],![favorite][favorite]] Google Flu Trends 倍受算法变化所带来的困扰。阅读文章 [Lazer et al. (2014)](https://doi.org/10.1126/science.1248506) ，给 Google 工程师写一篇简明的 email，解释存在的问题，并给出一些修复问题的想法。
 

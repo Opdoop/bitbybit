@@ -35,3 +35,7 @@
 * [数学原理简介](chap2/mathematical notes.md)
 * [扩展阅读](chap2/observing-what-to-read-next.md)
 * [延伸活动](chap2/observing-activities.md)
+
+## 3 提出问题
+
+* [3.1 简介](chap3/3-1-introduction.md)
