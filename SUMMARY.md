@@ -43,3 +43,4 @@
 * [3.3 整体性调查误差框架](chap3/3-3-the-total-survey-error-framework.md)
     * [3.3.1 代表性](chap3/3-3-1-representation.md)
     * [3.3.2 衡量标准](chap3/3-3-2-measurement.md)
+    * [3.3.3 成本](chap3/3-3-3-cost.md)
