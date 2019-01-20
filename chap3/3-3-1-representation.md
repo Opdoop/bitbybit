@@ -10,7 +10,7 @@
 
 > “THE DIGEST’s smooth-running machine moves with the swift precision of thirty years’ experience to reduce guesswork to hard facts … This week 500 pens scratched out more than a quarter of a million addresses a day. Every day, in a great room high above motor-ribboned Fourth Avenue, in New York, 400 workers deftly slide a million pieces of printed matter—enough to pave forty city blocks—into the addressed envelops [sic]. Every hour, in THE DIGEST’S own Post Office Substation, three chattering postage metering machines sealed and stamped the white oblongs; skilled postal employees flipped them into bulging mailsacks; fleet DIGEST trucks sped them to express mail-trains . . . Next week, the first answers from these ten million will begin the incoming tide of marked ballots, to be triple-checked, verified, five-times cross-classified and totaled. When the last figure has been totted and checked, if past experience is a criterion, the country will know to within a fraction of 1 percent the actual popular vote of forty million [voters].” (August 22, 1936)
 
-「文学文摘」对样本的数量是如此痴迷，与当今研究者对「大数据」的迷恋一样。「文学文摘」发出了约 1000 万张选票，令人振奋的，回收了月 240 万张。这比现在的联邦政治投票数的 1，000 倍还要多。 从这 240 万个回复来看，结果很清楚：阿尔夫·兰登将击败现任总统富兰克林·罗斯福。然而，事实上，罗斯福以压倒性的选票击败了兰登。「文学文摘」是怎样从如此多的数据中得出错误预测的？以我们现在对抽样的理解，可以分析出「文学文摘」犯了哪些错误，以此来爆出我们避免在未来犯类似的错误。
+「文学文摘」对样本的数量是如此痴迷，与当今研究者对「大数据」的迷恋一样。「文学文摘」发出了约 1000 万张选票，令人振奋的，回收了约 240 万张。这比现在的联邦政治投票数的 1，000 倍还要多。 从这 240 万个回复来看，结果很清楚：阿尔夫·兰登将击败现任总统富兰克林·罗斯福。然而，事实上，罗斯福以压倒性的选票击败了兰登。「文学文摘」是怎样从如此多的数据中得出错误预测的？以我们现在对抽样的理解，可以分析出「文学文摘」犯了哪些错误，以此来爆出我们避免在未来犯类似的错误。
 
 清晰的描述抽样，我们会涉及到四个不同的人群 (图 3.2)。首先，是 「target population」（目标人群） ，这是研究者定义的、他所关心的人群。在「文学文摘」的例子中，目标人群是 1936 年总统大选的所有选民。
 

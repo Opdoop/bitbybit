@@ -42,3 +42,4 @@
 * [3.2 提问与观察](chap3/3-2-asking-versus-observing.md)
 * [3.3 整体性调查误差框架](chap3/3-3-the-total-survey-error-framework.md)
     * [3.3.1 代表性](chap3/3-3-1-representation.md)
+    * [3.3.2 衡量标准](chap3/3-3-2-measurement.md)
