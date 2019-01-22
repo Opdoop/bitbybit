@@ -47,3 +47,4 @@
 * [3.4 该问谁](chap3/3-4-who-to-ask.md)
 * [3.5 问问题的新方法](chap3/3-5-new-ways-of-asking-questions.md)
     * [3.5.1 生态学的瞬间评估](chap3/3-5-1-ecological-momentary-assessments.md)
+    * [3.5.2 维基调查](chap3/3-5-2-wiki-surveys.md)
