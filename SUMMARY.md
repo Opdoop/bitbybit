@@ -51,3 +51,4 @@
     * [3.5.3 游戏化](chap3/3-5-3-gamification.md)
 * [3.6 将调查与大数据连接](chap3/3-6-surveys-linked-to-big-data-sources.md)
     * [3.6.1 互补式提问](chap3/3-6-1-enriched-asking.md)
+    * [3.6.2 增广式提问](chap3/3-6-2-amplified-asking.md)
