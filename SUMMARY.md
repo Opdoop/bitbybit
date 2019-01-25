@@ -32,7 +32,7 @@
     * [2.4.2 预报与即时预报](chap2/2-4-2-forecasting-and-nowcasting.md)
     * [2.4.3 模拟实验](chap2/2-4-3-approximating-experiments.md)
 * [2.5 总结](chap2/2-5-conclusion.md)
-* [数学原理简介](chap2/mathematical notes.md)
+* [数学原理简介](chap2/mathematical-notes.md)
 * [扩展阅读](chap2/observing-what-to-read-next.md)
 * [延伸活动](chap2/observing-activities.md)
 
@@ -53,6 +53,6 @@
     * [3.6.1 互补式提问](chap3/3-6-1-enriched-asking.md)
     * [3.6.2 增广式提问](chap3/3-6-2-amplified-asking.md)
 * [3.7 总结](chap3/3-7-conclusion.md)
-* [数学原理简介](chap3/mathematical notes.md)
+* [数学原理简介](chap3/mathematical-notes.md)
 * [扩展阅读](chap3/observing-what-to-read-next.md)
 * [延伸活动](chap3/observing-activities.md)
